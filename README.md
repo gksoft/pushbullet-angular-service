@@ -3,7 +3,7 @@ pushbullet client api for use with angular. It is based on the [node-pushbullet-
 
 ### usage
 
-check the [examplePushbulletClientService.js](https://github.com/gksoft/pushbullet-angular-service/blob/master/examplePushbulletClientService.js) or code a similar one. Enter the pushbullet api key, the name of the client. 
+use the [examplePushbulletClientService.js](https://github.com/gksoft/pushbullet-angular-service/blob/master/examplePushbulletClientService.js) or code a similar one. Enter the pushbullet api key, the name of the client. 
 
 add the script files in your client
 
