@@ -1,5 +1,5 @@
 # pushbullet-angular-service
-pushbullet client api for use with angular. It is based on the [node-pushbullet-api](https://github.com/alexwhitman/node-pushbullet-api)
+pushbullet client api to be used with angular. It is based on the [node-pushbullet-api](https://github.com/alexwhitman/node-pushbullet-api)
 
 ### usage
 
